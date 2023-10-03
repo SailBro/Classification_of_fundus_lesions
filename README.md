@@ -1,1 +1,6 @@
-# Classification_of_fundus_lesions
+# Classification_of_fundus_lesions——基于卷积神经网络的糖尿病眼底病变分类问题
+- 项目介绍：有监督分类的机器学习问题
+- 编程语言：python
+- 项目时间：2022年11月14日-18日
+
+## 补充：项目训练集较大，已丢失
